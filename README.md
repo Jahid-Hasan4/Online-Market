@@ -4,9 +4,9 @@ Local Setup process:
 
 ## Step1:
 
-clone the repo - git clone https://github.com/emhash/Online-Fish-Market-Website.git
+clone the repo
 <br>
-cd Online-Fish-Market-Website
+cd Online-Market
 
 ## step2:
 
@@ -29,7 +29,7 @@ python manage.py runserver
 
 ## Step1:
 
-clone the repo - git clone https://github.com/emhash/Online-Fish-Market-Website.git
+clone the repo
 
 ## step2:
 
@@ -56,10 +56,3 @@ cd Online-Fish-Market-Website
 pip install -r requirements.txt
 <br>
 python manage.py runserver
-
------ THATS ALL THE PROJECT IS RUNNING -----
-
-Admin panel: 
-admin@gmail.com 
-<br>
-password: 12345
